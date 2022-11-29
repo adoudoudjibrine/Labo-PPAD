@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Vostro/Documents/Master/cours S1/Programmation Paralelle et Application distribue INF431/Labo PPAD/__pycache__",
-      "program": "c:/Users/Vostro/Documents/Master/cours S1/Programmation Paralelle et Application distribue INF431/Labo PPAD/__pycache__/build/Debug/outDebug",
+      "cwd": "c:/Users/Vostro/Documents/Master/cours S1/Programmation Paralelle et Application distribue INF431/Labo PPAD",
+      "program": "c:/Users/Vostro/Documents/Master/cours S1/Programmation Paralelle et Application distribue INF431/Labo PPAD/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
