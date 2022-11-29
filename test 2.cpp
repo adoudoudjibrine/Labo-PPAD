@@ -8,7 +8,7 @@ int main (int argc, char const *argv[]){
 
   for(n=0;n<8;n++){
 
-    printf("Element %d traité\n",n);
+    printf("Element %d traite\n",n);
 
   }
 
